@@ -1,4 +1,4 @@
-# Kamaraka
+# Kamaraka Project Timeline
 
 Based on the assignment details provided, here’s a revised timeline with specific tasks and roles assigned to each group member, aligning with the requirements:
 

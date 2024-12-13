@@ -19,7 +19,11 @@ Based on the assignment details provided, here’s a revised timeline with speci
 
 4. **Role 4: Tool Researcher**  
    - Study the `skfuzzy` library in Python and share useful tutorials or resources with the team.
+     -  scikit-fuzzy main library：`https://pythonhosted.org/scikit-fuzzy/api/api.html`
+     -  Basic step to build up a fuzzy FrameWork
+        -  Define Input and Output Variables->Define Membership Functions->Create the Fuzzy Control System->Input Data and Compute Output
    - Suggest coding structure and tools for the implementation.
+     -   Suggesting Jupyter Notebook
 
 ---
 
